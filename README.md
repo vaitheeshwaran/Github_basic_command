@@ -1,1 +1,1 @@
-This is Git sample
+This Git sample with user visibility 
