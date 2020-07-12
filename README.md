@@ -42,3 +42,16 @@
  
  22  git push -u origin master
 
+=============================
+
+To remove the file from the Git repository and the filesystem
+
+git rm file1.txt
+git commit -m "remove file1.txt"
+
+To remove the file only from the Git repository and not remove it from the filesystem
+
+git rm --cached file1.txt
+git commit -m "remove file1.txt"
+
+============================
