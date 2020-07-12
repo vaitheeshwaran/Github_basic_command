@@ -55,3 +55,12 @@ git rm --cached file1.txt
 git commit -m "remove file1.txt"
 
 ============================
+
+To move file from one directory to another directory in git
+
+git mv source/hello.html Destination
+git status
+git commit -m "changes msg"
+git push origin master
+
+============================
