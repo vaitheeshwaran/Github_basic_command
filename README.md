@@ -12,9 +12,9 @@
  
  7  vi README.md
  
- 8  git add README.md
+ 8  git add README.md (OR) git add . # To add all changes you have made
  
- 9  git commit -m "first commit"
+ 9  git commit -m "first commit" (OR) git commit -a -m "commit msg" # To appen all your addfiles
  
  10  git push -u origin master
  
