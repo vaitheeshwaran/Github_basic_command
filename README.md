@@ -64,3 +64,10 @@ git commit -m "changes msg"
 git push origin master
 
 ============================
+To change the directory name 
+
+git mv oldfolder newfolder
+
+Note: Don't need to create already newfolder 
+
+===========================
